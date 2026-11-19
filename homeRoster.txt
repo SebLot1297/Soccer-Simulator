@@ -1,0 +1,12 @@
+Home_Test 8 8
+HomePlayer1 8 100 80 80 80 80 80 80 80 gk
+HomePlayer2 8 100 80 80 80 80 80 80 80 lb
+HomePlayer3 8 100 80 80 80 80 80 80 80 lcb
+HomePlayer4 8 100 80 80 80 80 80 80 80 rcb
+HomePlayer5 8 100 80 80 80 80 80 80 80 rb
+HomePlayer6 8 100 80 80 80 80 80 80 80 lcm
+HomePlayer7 8 100 80 80 80 80 80 80 80 cm
+HomePlayer8 8 100 80 80 80 80 80 80 80 rcm
+HomePlayer9 8 100 80 80 80 80 80 80 80 lw
+HomePlayer10 8 100 80 80 80 80 80 80 80 st
+HomePlayer11 8 100 80 80 80 80 80 80 80 rw

@@ -1,6 +1,7 @@
 
 //Passes from players will be to other players only for now. no through balls for now
 public class Player {
+	private String name;
 	private int mentalStrength; // out of 10
 	private int fitnessLevel; // out of 100
 	//private String role; -> fuck the player role. will not be in first version
@@ -8,19 +9,24 @@ public class Player {
 	/*in the order of -> Pace, shooting, passing, dribbling, defending, first touch, and jumping
 	 * all between 1-99
 	 */
-	private String position; // ex: "lb" "cb" "st", etc
-	private double xCord;
+	private String position; // ex: "lb" "rcb" "st",  etc include left and right ex: rcb = right center back
+ 	private double xCord;
 	private double yCord;
-	public Player(int mS, int fL, int[] r, String pos, double x, double y) {
+	public Player(String n,int mS, int fL, int[] r, String pos) {
+		
 		setMentalStength(mS);
 		setFitnessLevel(fL);
 		setRatings(r);
 		setPosition(pos);
-		setxCord(x);
-		setyCord(y);
 		
 	}
 	
+	public void setName(String n){
+		name = n;
+	}
+	public String getName(){
+		return name;
+	}
 	
 	public void setMentalStength(int mS) {
 		mentalStrength = mS;
@@ -74,7 +80,9 @@ public class Player {
 		this.position = position;
 	}
 	
-	
+	public String toString(){
+		return "";
+	}
 	
 
 }

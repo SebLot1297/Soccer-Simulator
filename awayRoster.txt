@@ -1,0 +1,12 @@
+Away_Test 8 8
+AwayPlayer1 8 100 80 80 80 80 80 80 80 gk
+AwayPlayer2 8 100 80 80 80 80 80 80 80 lb
+AwayPlayer3 8 100 80 80 80 80 80 80 80 lcb
+AwayPlayer4 8 100 80 80 80 80 80 80 80 rcb
+AwayPlayer5 8 100 80 80 80 80 80 80 80 rb
+AwayPlayer6 8 100 80 80 80 80 80 80 80 lcm
+AwayPlayer7 8 100 80 80 80 80 80 80 80 cm
+AwayPlayer8 8 100 80 80 80 80 80 80 80 rcm
+AwayPlayer9 8 100 80 80 80 80 80 80 80 lw
+AwayPlayer10 8 100 80 80 80 80 80 80 80 st
+AwayPlayer11 8 100 80 80 80 80 80 80 80 rw
